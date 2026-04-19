@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+ 👋 Hi, I'm Ishwar Parihar<br><br>Senior Flutter Developer with 4+ years of experience building scalable mobile and web applications used by 100K+ users.<br><br>I specialize in Flutter and modern architectures like BLoC and Riverpod, with a strong focus on clean code, performance optimization, and real-world problem solving. I’ve worked on production-grade apps across domains like e-commerce, AI-based solutions, astrology platforms, and logistics systems.<br><br> 🚀 What I do<br><br>* Build high-performance cross-platform apps (Android, iOS, Web)<br>* Design scalable architectures (BLoC, MVVM, Clean Architecture)<br>* Optimize APIs and app performance<br>* Implement CI/CD pipelines (GitHub Actions, Codemagic)<br>* Integrate AI features (ChatGPT, real-time systems)<br><br> 🛠 Tech Stack<br><br>Flutter • Dart • Firebase • REST & GraphQL • Riverpod • BLoC • CI/CD • Crashlytics • Sentry<br><br> 📱 Live Projects<br><br>* Coaching Zone (Sports App) – 100K+ users<br>* Quickly (E-commerce Platform)<br>* Karmm & Karmm Pro (Astrology Apps)<br>* Gro One (AI Fleet Management)<br>* Pocket Chef (AI Cooking App)<br><br> 💡 Current Focus<br><br>* Building scalable Flutter systems<br>* Improving architecture and performance<br>* Exploring AI integrations in mobile apps<br><br> 📫 Connect with me<br><br>Portfolio: https://ishwarparihar.netlify.app<br>LinkedIn: https://linkedin.com/in/ishwar-parihar-159038196<br><br>---<br><br>> I believe in writing clean, maintainable code and building products that actually solve real problems.<br>
 
-<!--
-**ishwar-parihar2610/ishwar-parihar2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwar-parihar-159038196) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ishwar parihar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishwarparihar2610@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ishwar-parihar2610&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ishwar-parihar2610&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ishwar-parihar2610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ishwar-parihar2610&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
